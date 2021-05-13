@@ -2,51 +2,51 @@ id: c7016fcbd2394859b3fdfc542235bedc
 annotation_type: Tsawa
 revision: '00001'
 annotations:
-- id: c30e85a87e6244d6a21e521f94bbab03
-  span:
-    start: 199644
-    end: 199808
-- id: 204c1e6d9c1b44c1aa50074fdd08f48f
-  span:
-    start: 199962
-    end: 199965
-- id: 7a73d740080647f88c3dbf49069aaa5a
-  span:
-    start: 200585
-    end: 200631
-- id: f3898e73d257438a8516e77ff1ebedf5
-  span:
-    start: 200683
-    end: 200723
-- id: 0b31f04c146d4b96854ed0d9206f9ad7
-  span:
-    start: 201065
-    end: 201071
-- id: fc7baafe18e34e1fa7c47798479d802f
-  span:
-    start: 201107
-    end: 201139
-- id: b2129b42cb474acc96b57bf4733ce1d7
-  span:
-    start: 201909
-    end: 202010
-- id: 698897d4c6e84514b484ff9b816580c4
-  span:
-    start: 202023
-    end: 202043
-- id: 581d81ae2f254b589b6535087860b023
-  span:
-    start: 202045
-    end: 202150
-- id: 2bd8307d69aa49289853e7993aa4fa86
-  span:
-    start: 202194
-    end: 202271
-- id: d033c26df6794899866f3eb4e062570f
-  span:
-    start: 202273
-    end: 202398
-- id: dea0c24873064787847cfdeeb2b51825
-  span:
-    start: 204298
-    end: 204433
+  c30e85a87e6244d6a21e521f94bbab03:
+    span:
+      start: 199644
+      end: 199808
+  204c1e6d9c1b44c1aa50074fdd08f48f:
+    span:
+      start: 199962
+      end: 199965
+  7a73d740080647f88c3dbf49069aaa5a:
+    span:
+      start: 200585
+      end: 200631
+  f3898e73d257438a8516e77ff1ebedf5:
+    span:
+      start: 200683
+      end: 200723
+  0b31f04c146d4b96854ed0d9206f9ad7:
+    span:
+      start: 201065
+      end: 201071
+  fc7baafe18e34e1fa7c47798479d802f:
+    span:
+      start: 201107
+      end: 201139
+  b2129b42cb474acc96b57bf4733ce1d7:
+    span:
+      start: 201909
+      end: 202010
+  698897d4c6e84514b484ff9b816580c4:
+    span:
+      start: 202023
+      end: 202043
+  581d81ae2f254b589b6535087860b023:
+    span:
+      start: 202045
+      end: 202150
+  2bd8307d69aa49289853e7993aa4fa86:
+    span:
+      start: 202194
+      end: 202271
+  d033c26df6794899866f3eb4e062570f:
+    span:
+      start: 202273
+      end: 202398
+  dea0c24873064787847cfdeeb2b51825:
+    span:
+      start: 204298
+      end: 204433
